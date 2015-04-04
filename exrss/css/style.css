@@ -1,0 +1,25 @@
+
+.rsswp-feed {
+	color: #252525;
+}
+
+.rsswp-feed>a {
+	margin: 10px 0;
+	display: inline-block;
+}
+
+.rsswp-feed>a>img {
+	margin-right: 10px;
+}
+
+.rsswp-feed .rp-title{
+	color: #252525;
+}
+
+.rsswp-feed>p>small>em{
+	font-size:12px;
+}
+
+.rsswp-feed .rp-description{
+	color: #aaa;
+}

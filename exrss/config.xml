@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>exrss</name>
+	<displayName><![CDATA[ExRSS Module]]></displayName>
+	<version><![CDATA[1.5.3]]></version>
+	<description><![CDATA[RSS block with images from any website.]]></description>
+	<author><![CDATA[Aki4]]></author>
+	<tab><![CDATA[front_office_features]]></tab>
+	<confirmUninstall><![CDATA[Are you sure you want to uninstall this module?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
